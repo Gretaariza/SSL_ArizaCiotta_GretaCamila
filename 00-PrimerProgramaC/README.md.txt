@@ -1,1 +1,1 @@
-Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
+Este es mi TP0 donde voy a desarrollar un programa básico en C
